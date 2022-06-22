@@ -33,3 +33,11 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd package.json
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more package.json
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
