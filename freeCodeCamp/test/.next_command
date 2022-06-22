@@ -681,3 +681,12 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm --hlp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
