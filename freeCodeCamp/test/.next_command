@@ -353,3 +353,15 @@ history -a
 find client
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -l
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+help -l
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
