@@ -801,3 +801,45 @@ git commit -m"learn bash"
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git commit -m"learn bash"
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push https://github.com/Franklyne-Kibet/Boilerplate.git
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream https://github.com/Franklyne-Kibet/Boilerplate.git
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream https://github.com/Franklyne-Kibet/Boilerplate.git master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream https://github.com/Franklyne-Kibet/Boilerplate.git master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream https://github.com/Franklyne-Kibet/Boilerplate.git master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream https://github.com/Franklyne-Kibet/Boilerplate.git master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git add .
